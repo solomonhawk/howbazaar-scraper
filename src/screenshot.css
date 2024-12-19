@@ -1,0 +1,9 @@
+:root {
+  --color-background: #2a1908;
+}
+
+/* root monster info container */
+.mt-8 {
+  background-color: var(--color-background) !important;
+  /* padding: 30px; */
+}
